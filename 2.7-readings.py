@@ -1,5 +1,9 @@
 import numpy
+
 import loaddata
+
+import sys
+
 
 def main():
 	filename='data/inflammation-01.csv'
